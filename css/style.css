@@ -252,3 +252,33 @@ footer{
         line-height: 21px;
     }
   }
+
+  @media screen and (max-width: 400px) {
+    .name_links{
+        width: 350px;
+    }
+    .main_content {
+        width: 350px;
+    }
+    p, a{
+        font-size: 14px;
+        line-height: 21px;
+    }
+    h1{
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .myname, .about_port_contact{
+        font-size: 20px;
+        line-height: 26px;
+        text-align:center;
+        padding: 2% 0;
+        width:100%;
+        margin:0;
+    }
+    .input_name, input, .project_label{
+        font-size: 14px;
+        line-height: 21px;
+    }
+  }
+
