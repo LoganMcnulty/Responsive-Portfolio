@@ -222,6 +222,9 @@ footer{
     .main_content {
         width: 700px;
     }
+    #profile_pic, #honda {
+        width:20%;
+    }
   }
 
   @media screen and (max-width: 640px) {
@@ -253,7 +256,6 @@ footer{
     }
     #profile_pic, #honda {
         width:30%;
-
     }
   }
 
