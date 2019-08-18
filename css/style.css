@@ -251,6 +251,10 @@ footer{
         font-size: 14px;
         line-height: 21px;
     }
+    #profile_pic, #honda {
+        width:30%;
+
+    }
   }
 
   @media screen and (max-width: 400px) {
@@ -279,6 +283,10 @@ footer{
     .input_name, input, .project_label{
         font-size: 14px;
         line-height: 21px;
+    }
+    #profile_pic, #honda {
+        width:30%;
+
     }
   }
 
